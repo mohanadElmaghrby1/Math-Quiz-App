@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="submit">submit</string>
+
+    <!--the quiz questions -->
+    <string name="q1">what is the result of 1 + 2 ?</string>
+    <string name="q2">what is the result of 8 / 2 ?</string>
+    <string name="q3">select all numbers which divisable by 3</string>
+    <string name="q4">what is the result of 1 + 1 ?</string>
+    <string name="q5">what is the result of 20 / 5 ?</string>
+    <string name="q6">select all primitive numbers </string>
+
+</resources>

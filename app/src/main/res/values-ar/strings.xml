@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اختبار رياضيات</string>
+    <string name="submit">تسليم</string>
+
+    <!--the quiz questions -->
+    <string name="q1">ما هي نتيجة 1+2 ؟</string>
+    <string name="q2">ما هي نتيجة  8/2؟</string>
+    <string name="q3">اختر كل الارقام اللتي تقبل القسمه علي 3</string>
+    <string name="q4">ما هو ناتج 1+1 ؟</string>
+    <string name="q5">ما هي نتيجة 20/5 ؟</string>
+    <string name="q6">اختر كل الارقام الاوليه </string>
+</resources>
